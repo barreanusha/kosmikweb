@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Install Updated packages on linux machine

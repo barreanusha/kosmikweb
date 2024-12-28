@@ -1,4 +1,3 @@
-
 terraform {
   required_version = ">= 0.12"
 }
@@ -132,3 +131,4 @@ root_block_device {
     
   }
 }
+
